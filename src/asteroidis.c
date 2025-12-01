@@ -1,6 +1,6 @@
-#include "../inc/asteroidis.h"
+#include "../inc/dependences.h"
 
 int main(void){
-    // Comando para teste de execução
-    printf("Hello world!");
+
+    return 0;
 }
