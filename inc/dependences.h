@@ -12,11 +12,3 @@ void Delay(int ms){
     nanosleep(&ts, NULL);
 }
 
-void TestDelay(void){
-    printf("Contando segundos: \n");
-
-    for(int i = 0; i < 10; ++i){
-        Delay(1000);
-        printf("%d\n", i + 1);
-    }
-}
