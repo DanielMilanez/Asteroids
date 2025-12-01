@@ -1,1 +1,14 @@
-./output
+
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+a.out
+*.exe
+
+*.log
+*.tmp
+
+*.pdb
